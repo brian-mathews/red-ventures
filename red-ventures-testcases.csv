@@ -1,0 +1,5 @@
+Test Cases,Name,Target,
+Test Case1,Click 'Get Recommendations' link and complet 4 starter quesitons to recieve recommendations.,Hight rate starting point for users and important to validate expected steps.,Site seems to have A/B testing so conditon was added and both versions tested.
+Test Case 2,Click 'Card Categories' link and assert all links in dropdown return 200,Main header menu dropdown links are all 200.,
+Test Case 3,Click by Credit Score Category to refresh homepage and assert cookie set to chosen category,Assert users credit score input is correctly set in the cookie.,
+Test Case 4,Click 'Choose Your Category' tab to assert data updates as expected.,Category content should change upon a users selection.,
